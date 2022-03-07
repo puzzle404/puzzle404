@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <h2>ℹ Things I code with</h2>
+
 ![Web_Dev_Icons](https://user-images.githubusercontent.com/94634890/156653139-1e15fcaa-2545-4905-b19e-5f915b2a426c.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/puzzle404/github-readme-stats)
+<h2>📊 Statistics</h2>
+
+[![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=puzzle404)](https://github.com/puzzle404/github-readme-stats)
