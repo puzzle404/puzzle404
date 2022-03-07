@@ -1,6 +1,6 @@
 
 
-<h1>👋 Hi! I´m Mariana</h1>
+<h1>👋 Hi! I´m Manuel</h1>
 
 Here are some ideas to get you started:
 
@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h2>ℹ Things I code with</h2>
 ![Web_Dev_Icons](https://user-images.githubusercontent.com/94634890/156653139-1e15fcaa-2545-4905-b19e-5f915b2a426c.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/puzzle404/github-readme-stats)
