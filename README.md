@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://github.com/puzzle404/chitara-ecommerce
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 👯 I’m looking to learn more and more about coding
 .
 
