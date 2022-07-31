@@ -3,7 +3,7 @@
 <h1>👋 Hi! I´m Manuel</h1>
 
 
-- 🔭 I’m currently working on https://github.com/puzzle404/chitara-ecommerce
+- 🔭 I’m currently working on www.lewagon.com and www.tuten.nz
 - 🌱 I’m currently learning Javascript and React
 - 👯 I’m looking to learn more and more about coding
 .
